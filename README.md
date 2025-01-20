@@ -22,7 +22,7 @@ This project is a chatbot application designed to interact with cancer-related d
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/cancer-data-chatbot.git
+   git clone https://github.com/shiinoo/cancer-data-chatbot.git
    cd cancer-data-chatbot
    ```
 
