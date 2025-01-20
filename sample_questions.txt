@@ -1,0 +1,23 @@
+# Basic Data Questions
+what is this data about?
+what kind of information is in this dataset?
+what are the features in this dataset?
+how many columns are in the data?
+
+# Statistical Questions
+what is the average single_epithelial_cell_size in cancer data?
+what is the average clump_thickness?
+what is the average mitosis value?
+what are the minimum and maximum values for clump_thickness?
+
+# Specific Data Questions
+what does clump_thickness indicate?
+what is bare_nuclei?
+what does mitosis mean in this context?
+how is uniformity of cell size measured?
+
+# Complex Questions
+what is the relationship between clump_thickness and cell size?
+which features are most important for cancer detection?
+can you explain the difference between uniformity of cell size and cell shape?
+what are typical values for normal cells vs abnormal cells?

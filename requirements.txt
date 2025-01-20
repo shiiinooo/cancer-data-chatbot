@@ -1,0 +1,16 @@
+gradio
+pandas
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+chromadb
+pyprojroot
+python-dotenv
+pyyaml
+sqlalchemy
+transformers
+torch
+accelerate
+bitsandbytes
+openai

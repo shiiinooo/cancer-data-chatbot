@@ -1,0 +1,11 @@
+directories:
+  csv_directory: data/csv
+  persist_directory: data/chroma
+
+llm_config:
+  rag_llm_system_role: "You will receive the user's question along with the search results of that question over a database. Give the user the proper answer."
+  temperature: 0.0
+
+rag_config:
+  collection_name: cancer_data
+  top_k: 5
